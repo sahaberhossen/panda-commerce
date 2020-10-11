@@ -22,3 +22,55 @@ header {
     display: inline-block;
     margin-top: 20px;
 }
+.catagory img {
+    width: 90px;
+}
+.catagory {
+    padding: 60px;
+}
+
+.cat-1 {
+    background: orange;
+    border-radius: 5px;
+}
+
+.cat-2 {
+    background:  #FF428D;
+    border-radius: 5px;
+}
+
+.cat-3 {
+    background: blue;
+    border-radius: 5px;
+}
+.catagory h1 {
+    color: white;
+    text-transform: capitalize;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+button,
+input[type="submit"] {
+    background:  #FF428D;
+    border: none;
+    padding: 5px 9px;
+    border-radius: 5px !important;
+    box-sizing: border-box;
+}
+.card {
+    border: none;
+    ox-shadow: 9px 3px 10px 3p
+}
+.shoes {
+    padding: 20px  0 50px 0;
+}
+.backpak {
+    padding: 30px 0;
+}
+.subscribe {
+    padding: 50px 0;
+}
+.input-area {
+    background-color:  #fceae8;
+    padding: 80px 20px;
+}
